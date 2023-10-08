@@ -14,6 +14,8 @@ void main(){
     printf("il numero dei nodi e' : %d\n",conta_nodi(a));
     printf("l'altezza dell'albero e' : %d\n",altezza(a));
 
+    printf("ho aggiunto delle strutture dati balorde in piu\n");
+
 }
 
 
